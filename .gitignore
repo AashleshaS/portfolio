@@ -1,0 +1,21 @@
+# Cloned projects / external subdirectories
+The-Can-Do-Crew/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+
+# Personal documents / resumes (Privacy protection)
+*.pdf
+assets/*.pdf
+
